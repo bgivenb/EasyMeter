@@ -2,3 +2,5 @@ Mac/EasyMeter.vst3/** filter=lfs diff=lfs merge=lfs -text
 PC/EasyMeter.vst3/** filter=lfs diff=lfs merge=lfs -text
 *.vst3 filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+*.component filter=lfs diff=lfs merge=lfs -text
+VU[[:space:]](Mac)/** filter=lfs diff=lfs merge=lfs -text
